@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "titre": "En eaux dangereuses",
+        "auteur": "Donna Leon",
+        "theme":"Polar",
+        "description": "",
+        "nouveaute": "Oui",
+        "note": 4,
+        "prix": 9.50,
+        "prix barre": 8.70,
+        "image":"https://products-images.di-static.com/image/donna-leon-en-eaux-dangereuses/9782757891261-475x500-2.webp"
+    },
+    {
+        "id": 2,
+        "titre": "Quand un fils nous est donné",
+        "auteur": "Donna Leon",
+        "theme":"Polar",
+        "description": "Plus que jamais, Venise brille ici de mille feux. »BooklistLe commissaire Brunetti n'aime pas mêler travail et famille, alors quand son beau-père le comte Falier lui demande une faveur, il est bien tracassé. Un de ses meilleurs amis, Gonzalo Rodríguez de Tejeda, a l'intention d'adopter son jeune amant, afin de lui léguer son immense fortune le jour venu. Méfiant, le comte exhorte son gendre peu motivé à mener l'enquête sur le jeune homme.",
+        "nouveaute": "Oui",
+        "note": 3.5,
+        "prix": 9.80,
+        "prix barre": 9.80,
+        "image": "https://products-images.di-static.com/image/donna-leon-quand-un-fils-nous-est-donne/9782702167007-475x500-2.webp"
+    },
+    {
+        "id": 3,
+        "titre": "Trouver ma place. 22 protocoles pour accéder au bonheur",
+        "auteur": "Natacha Calestrémé",
+        "theme":"Santé et Bien-être",
+        "description": "Puis, à l'aide de mes 22 protocoles et l'explication de cas très concrets, je vous indique comment éliminer ces fardeaux émotionnels, pour accéder à votre plein potentiel, et être enfin vous-même. Ils en parlent : Je me sens différent. Quelle force incroyable se cache dans cette approche ! Dr. Robert Corvisier, médecin Ce livre a changé ma vie, l'injustice a cessé de me toucher, j'ai trouvé ma place. Julie Sovann Ouk, Chef d'entreprise Cet ouvrage va aider de nombreuses personnes, y compris des professionnels de santé.",
+        "nouveaute": "Non",
+        "note": 3,
+        "prix": 12.99,
+        "prix barre": 10.00,
+        "image": "https://products-images.di-static.com/image/natacha-calestreme-trouver-ma-place/9782226469229-475x500-2.webp"
+    },
+    {
+        "id": 4,
+        "titre": "Fruits en folie - Découvre 7 odeurs de fruits",
+        "auteur": "Mr Iwi",
+        "theme":"Jeunesse",
+        "description": "7 nouveaux fruits et donc 7 nouvelles odeurs, pour compléter la sélection du premier volume ! L'odeur facilite également l'apprentissage du vocabulaire de façon ludique et permet l'utilisation du livre en autonomie.",
+        "nouveaute": "Oui",
+        "note": 5,
+        "prix": 7.99,
+        "prix barre": 7.99,
+        "image": "https://products-images.di-static.com/image/mr-iwi-fruits-en-folie/9791039506984-475x500-1.webp"
+    },
+    {
+        "id": 5,
+        "titre": "Mudra - Le yoga des doigts",
+        "auteur": " Juliette Dumas, Locana Sansregret",
+        "theme":"Santé et Bien-être",
+        "description": "testing",
+        "nouveaute": "Non",
+        "note": 1,
+        "prix": 13.99,
+        "prix barre": 12.99,
+        "image": "https://products-images.di-static.com/image/juliette-dumas-mudra/9782081482579-475x500-2.webp"
+    },
+    {
+        "id": 6,
+        "titre": "Jouissance Club. Une cartographie du plaisir",
+        "auteur": "Jüne Plã",
+        "theme":"Santé et Bien-être",
+        "description": "Vous avez l'impression de passer à côté de votre sexualité  ? Pas de panique, Jüne du compte Instragram Jouissance Club fait souffler un vent de fraîcheur et d'espoir en proposant un manuel d'éducation sexuelle promouvant le plaisir accessible à tous, femme, homme, hétéro, homo ou trans  ! Elle propose de mettre de côté la pénétration pour se concentrer sur les 1001 façons de se donner du plaisir autrement, de manière décomplexée, jubilatoire et bienveillante. A l'aide de nombreux schémas sobres et élégants, elle propose une cartographie des multiples zones qui procurent du plaisir chez les deux sexes et un inventaire des mouvements orgasmiques.",
+        "nouveaute": "Non",
+        "note": 5,
+        "prix": 16.90,
+        "prix barre": 14.99,
+        "image": "https://products-images.di-static.com/image/june-pla-jouissance-club-une-cartographie-du-plaisir/9782501151597-475x500-2.webp"
+    },
+    {
+        "id": 7,
+        "titre": "Regarde autour du monde",
+        "auteur": "Emiri Hayashi",
+        "theme": "Jeunesse",
+        "description": "Un livre d'éveil tout en douceur pour inviter au voyage ! Pouf le petit chien a envie de voir du pays : Savane, forêt tropicale, Inde, Japon, Australie, Canada, c'est parti pour un grand voyage ! Une histoire balade à travers le monde pour une première découverte douce et colorée de paysages magnifiques. Un livre d'éveil à toucher, pour les bébés dès 6 mois.",
+        "nouveaute": "Oui",
+        "note": 4,
+        "prix": 14.50,
+        "prix barre": 14.50,
+        "image": "https://products-images.di-static.com/image/emiri-hayashi-regarde-autour-du-monde/9782092589793-475x500-1.webp"
+    },
+    {
+        "id": 8,
+        "titre": "Vive l'école !",
+        "auteur": "Marion Piffaretti",
+        "theme": "Jeunesse",
+        "description": "Vive l'école! est un documentaire qui explique le fonctionnement de l'école pour nos petits (plus si petits) qui vont faire leur rentrée. Ludique, coloré et clair, il sera un très bon support pour le (vous) rassurer et aborder cet instant avec sérénité.",
+        "nouveaute": "Non",
+        "note": 4,
+        "prix": 4.99,
+        "prix barre": 4.19,
+        "image": "https://products-images.di-static.com/image/marion-piffaretti-vive-l-ecole/9782092577325-475x500-2.webp"
+    },
+    {
+        "id": 9,
+        "titre": "La ritournelle",
+        "auteur": "Aurélie Valognes",
+        "theme": "Roman",
+        "description": "Dans certaines familles, les repas de fêtes se suivent et se ressemblent : mêmes plats, mêmes convives, mêmes discussions. Sauf cette année. Il suffit d'un rien pour que les bonnes manières volent en éclat : non-dits, vieilles rancunes et mauvaise foi vont transformer le dîner de fête en un règlement de compte en bonne et due forme. Et si les repas de famille étaient enfin l'occasion de se dire les choses ?",
+        "nouveaute": "Oui",
+        "note": 2,
+        "prix": 13.99,
+        "prix barre": 13.99,
+        "image": "https://products-images.di-static.com/image/aurelie-valognes-la-ritournelle/9791035409869-475x500-2.webp"
+    },
+    {
+        "id": 10,
+        "titre": "Premier sang",
+        "auteur": "Amélie Nothomb",
+        "theme": "Roman",
+        "description": "Prix Renaudot 2021 Palmarès 2021 Les 100 livres de l'année du magazine Lire « Il ne faut pas sous-estimer la rage de survivre.",
+        "nouveaute": "Oui",
+        "note": 4,
+        "prix": 12.99,
+        "prix barré": 12.99,
+        "image": "https://products-images.di-static.com/image/amelie-nothomb-premier-sang/9782226465412-475x500-2.webp"
+    }
+]
